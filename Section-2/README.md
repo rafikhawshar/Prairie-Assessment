@@ -11,7 +11,7 @@ Consider the following requirements:
 7. Each mentor belongs to a department, where each department has a department ID, name, an office, and topic speciality.
 
 The following are requested: 
-1. Design and draw an ER diagram that captures the information about Codi: 
+1. Design and dradfsdfsw an ER diagram that captures the information about Codi: 
 • Draw entities, relationships, and attributes.  
 • Show relationship cardinality. 
 • Underline the primary keys.  
